@@ -1,0 +1,49 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, Arial, Helvetica, sans-serif
+    font-family: 'Roboto', sans-serif;
+}
+header img{
+    width: 120px; height: 200pxx;
+}
+.quote{
+    color: red;
+    font-size: larger;
+    font-style: italic;
+    font-weight: 900;
+    font-display: 1px;
+    font-variant: inherit;
+}
+.circle{
+    background-color:blue;
+    outline: solid black;
+    outline-style:groove;
+    color: white;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 1px red;
+    padding: 2px;
+}
+.rope{
+    
+}
+.jop{
+    font-size: 100px;
+    font-display: 500px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 900px;
+    touch-action: double-tap-zoom;
+    cursor: auto;
+    touch-action: double-tap-zoom;
+    font-style: italic;
+    text-indent: 0cqi;
+}
+
+.quote{
+    font-size: 12px;
+    color: rgb(211, 30, 30);
+    margin: 5px;
+    padding: 10px;
+    border: 3px ;
+    border-radius: 10px;
+}
